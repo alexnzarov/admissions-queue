@@ -36,7 +36,7 @@ ua:
   CHANGE_DATA_BTN: "Змінити реєстраційні дані"
   NO_QUEUES: "Наразі немає активних черг"
   NO_MY_QUEUES: "Ви не зареєстровані у активних чергах"
-  OPT_REGISTRATION_BTN: "❗️ Пройти опціональну реєстрацію"
+  OPT_REGISTRATION_BTN: "❗️ Завершити реєстрацію ❗️"
   REG_USE_BUTTONS: "Для відповіді на це питання використовуйте кнопки"
   WELCOME: "WELCOME"
   YOUR_QUEUE_CODE: "Ваш номер у черзі"
